@@ -8,7 +8,9 @@ The project started as a simple Batch-based Windows optimization script and has 
 
 ---
 
-[![Shahil-Winkit.gif](https://i.postimg.cc/SNtpzXgc/Shahil-Winkit.gif)](https://postimg.cc/qznFP7V7)
+| Light | Dark |
+| :---: | :---: |
+| [![white.gif](https://i.postimg.cc/XJckTCrx/white.gif)](https://postimg.cc/PpJDDNz8) | [![dark.gif](https://i.postimg.cc/nzYG6DXY/dark.gif)](https://postimg.cc/bDrnndHs) |
 
 ## ✨ Features
 
